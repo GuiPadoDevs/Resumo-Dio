@@ -1,2 +1,11 @@
-# Resumo-Dio
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+# Resumo aula DIO
+
+## Benefícios que temos na Nuvem:
+ - Alta disponibilidade => SLA
+ - Escalabilidade
+ - Elasticidade
+ - Confiabilidade
+ - Previsibildade
+ - Segurança
+ - Governança
+ - Gerenciabilidade 
